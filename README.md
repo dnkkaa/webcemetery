@@ -1,4 +1,5 @@
-cemeterymapping
+#cemeterymapping
+
 #How to Run the Cemetery Mapping System
 
 1. Download and Install the latest version of XAMPP. [Download XAMPP]
